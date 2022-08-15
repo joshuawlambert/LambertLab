@@ -14,12 +14,12 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Personnel 
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/joshuawlambert
     - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://mobile.twitter.com/joshuawlambert
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -34,7 +34,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: ll.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
